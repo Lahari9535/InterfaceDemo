@@ -38,9 +38,9 @@ namespace ConsoleUI
         {
             List<PhysicalProductModel> output = new List<PhysicalProductModel>();
 
-            output.Add(new PhysicalProductModel { Title = "Nerf Football" });
-            output.Add(new PhysicalProductModel { Title = "IAmTimCorey T-Shirt" });
-            output.Add(new PhysicalProductModel { Title = "Hard Drive" });
+            output.Add(new PhysicalProductModel { Title = "Nike shoes" });
+            output.Add(new PhysicalProductModel { Title = "ronaldo T-Shirt" });
+            output.Add(new PhysicalProductModel { Title = "Hard Drive hpe" });
 
             return output;
         }
